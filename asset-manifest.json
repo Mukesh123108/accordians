@@ -1,13 +1,16 @@
 {
-  "main.css": "/accordians/static/css/main.732a80f6.chunk.css",
-  "main.js": "/accordians/static/js/main.19a75b01.chunk.js",
-  "main.js.map": "/accordians/static/js/main.19a75b01.chunk.js.map",
-  "static/js/1.72ff4d8d.chunk.js": "/accordians/static/js/1.72ff4d8d.chunk.js",
-  "static/js/1.72ff4d8d.chunk.js.map": "/accordians/static/js/1.72ff4d8d.chunk.js.map",
+  "main.css": "/accordians/static/css/main.f177e1ef.chunk.css",
+  "main.js": "/accordians/static/js/main.68aea705.chunk.js",
+  "main.js.map": "/accordians/static/js/main.68aea705.chunk.js.map",
+  "static/css/1.4ecf83fe.chunk.css": "/accordians/static/css/1.4ecf83fe.chunk.css",
+  "static/js/1.aec8c920.chunk.js": "/accordians/static/js/1.aec8c920.chunk.js",
+  "static/js/1.aec8c920.chunk.js.map": "/accordians/static/js/1.aec8c920.chunk.js.map",
   "runtime~main.js": "/accordians/static/js/runtime~main.84ca9d00.js",
   "runtime~main.js.map": "/accordians/static/js/runtime~main.84ca9d00.js.map",
-  "static/css/main.732a80f6.chunk.css.map": "/accordians/static/css/main.732a80f6.chunk.css.map",
+  "static/media/logo.png": "/accordians/static/media/logo.f20c7599.png",
+  "static/css/main.f177e1ef.chunk.css.map": "/accordians/static/css/main.f177e1ef.chunk.css.map",
+  "static/css/1.4ecf83fe.chunk.css.map": "/accordians/static/css/1.4ecf83fe.chunk.css.map",
   "index.html": "/accordians/index.html",
-  "precache-manifest.f5e1fd1b721ace0ebfa5eef9b4d37208.js": "/accordians/precache-manifest.f5e1fd1b721ace0ebfa5eef9b4d37208.js",
+  "precache-manifest.c7cd9c1cb4b6d6f808419544da4f6155.js": "/accordians/precache-manifest.c7cd9c1cb4b6d6f808419544da4f6155.js",
   "service-worker.js": "/accordians/service-worker.js"
 }
